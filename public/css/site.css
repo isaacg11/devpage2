@@ -144,6 +144,17 @@ body {
 	margin-left: 650px;
 	margin-top: -260px;
 	font-size: 40px;
+	cursor: pointer;
+}
+#blogdrafter:hover{
+	margin-left: 650px;
+	margin-top: -260px;
+	font-size: 40px;
+	color: #CC33FF;
+	cursor: pointer;
+}
+#copyright1{
+	font-size: 15px;
 }
 #blogdrafterdesc{
 	float: right;
@@ -157,4 +168,16 @@ body {
 	border-radius: 4px;
 	background-color: #3B5998;
 	color: #FFFFFF;
+	cursor: pointer;
+}
+#down-arrow{
+	margin-top: -200px;
+	margin-left: 575px;
+}
+#laptop2{
+	margin-top: 450px;
+	margin-left: -500px;
+	height: 250px;
+	width: 400px;
+
 }
