@@ -145,3 +145,16 @@ body {
 	margin-top: -260px;
 	font-size: 40px;
 }
+#blogdrafterdesc{
+	float: right;
+	margin-right: 205px;
+	color: #808080;	
+}
+#share1{
+	float: right;
+	margin-top: -48px;
+	margin-right:-393px;
+	border-radius: 4px;
+	background-color: #3B5998;
+	color: #FFFFFF;
+}
