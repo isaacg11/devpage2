@@ -1,0 +1,82 @@
+body { 
+	scroll-behavior: smooth; 
+}
+
+#backgroundimg{
+	width: 100vw;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	z-index: -1;
+}
+#isaacgrey{
+	margin-top: 40px;
+	margin-left: 175px;
+	color: #FFFFFF;
+}
+#title{
+	margin-top: -10px;
+	margin-left: 175px;
+	color: #FFFFFF;
+	font-size: 10.5px;
+
+}
+#home{
+	margin-left: 700px;
+	margin-top: -50px;
+	color:#FFFFFF;
+	font-size: 13px;
+}
+#portfolio{
+	margin-left: 820px;
+	margin-top: -30px;
+	color:#FFFFFF;
+	font-size: 13px;
+
+}
+#contact{
+	margin-left: 960px;
+	margin-top: -30px;
+	color:#FFFFFF;
+	font-size: 13px;
+
+}
+#slogan{
+	color: #FFFFFF;
+	font-size: 55px;
+	margin-top: 200px;
+	margin-left: 175px;
+}
+#description{
+	color: #FFFFFF;
+	margin-left: 175px;
+	margin-top: 30px;
+	font-size: 16px;
+}
+#button1{
+	color: #FFFFFF;
+	height: 55px;
+	width: 200px;
+	border-radius: 4px;
+	font-size: 16px;
+	padding-top: 12px;
+	padding-left: 30px;
+	background-color: #CC33FF;
+	margin-left: 175px;
+	margin-top: -610px;
+	float: left;
+}
+#button2{
+	color: #FFFFFF;
+	height: 55px;
+	width: 200px;
+	border-radius: 4px;
+	font-size: 16px;
+	padding-top: 12px;
+	padding-left: 30px;
+	background-color: rgba(255,255,255,.2);
+	margin-left: 390px;
+	margin-top: -609px;
+	float: left;
+
+}
