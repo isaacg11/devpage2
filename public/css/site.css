@@ -13,9 +13,10 @@ body {
 	margin-top: 40px;
 	margin-left: 225px;
 	color: #FFFFFF;
+	font-size: 18px;
 }
 #title{
-	margin-top: -10px;
+	margin-top: -23px;
 	margin-left: 225px;
 	color: #FFFFFF;
 	font-size: 10.5px;
@@ -69,27 +70,27 @@ body {
 }
 #slogan{
 	color: #FFFFFF;
-	font-size: 55px;
-	margin-top: 200px;
-	margin-left: 175px;
+	font-size: 60px;
+	margin-top: 160px;
+	margin-left: 165px;
 }
 #description{
 	color: #FFFFFF;
 	margin-left: 175px;
-	margin-top: 30px;
-	font-size: 16px;
+	margin-top: 90px;
+	font-size: 19px;
 }
 #button1{
 	color: #FFFFFF;
 	height: 55px;
 	width: 200px;
 	border-radius: 4px;
-	font-size: 16px;
-	padding-top: 14px;
-	padding-left: 30px;
+	font-size: 19px;
+	padding-top: 16px;
+	padding-left: 40px;
 	background-color: #CC33FF;
 	margin-left: 175px;
-	margin-top: -610px;
+	margin-top: -590px;
 	float: left;
 	cursor: pointer;
 }
@@ -98,12 +99,12 @@ body {
 	height: 55px;
 	width: 200px;
 	border-radius: 4px;
-	font-size: 16px;
+	font-size: 19px;
 	padding-top: 14px;
 	padding-left: 30px;
 	background-color: rgba(255,255,255,.2);
-	margin-left: 390px;
-	margin-top: -609px;
+	margin-left: 425px;
+	margin-top: -590px;
 	float: left;
 	cursor: pointer;
 }
@@ -128,26 +129,23 @@ body {
 	margin-left: 206px;
 	margin-top: 8px;
 }
-#laptop1{
-	height: 250px;
-	width: 400px;
-	margin-left: 200px;
-	margin-top: -230px;
-}
 #laptop1screen{
-	height: 207px;
-	width: 304px;
-	margin-top: -245px;
-	margin-left: -356px;
+	height: 230px;
+	width: 320px;
+	margin-top: -190px;
+	margin-left: 240px;
+	border: 10px groove;
+	border-radius: 4px;
+	border-color: #CCCCCC;
 }
 #blogdrafter{
-	margin-left: 650px;
+	margin-left: 635px;
 	margin-top: -260px;
 	font-size: 40px;
 	cursor: pointer;
 }
 #blogdrafter:hover{
-	margin-left: 650px;
+	margin-left: 635px;
 	margin-top: -260px;
 	font-size: 40px;
 	color: #CC33FF;
@@ -160,23 +158,63 @@ body {
 	float: right;
 	margin-right: 205px;
 	color: #808080;	
+	margin-top: -30px;
 }
 #share1{
 	float: right;
-	margin-top: -51px;
-	margin-right:-393px;
+	margin-top: -72px;
+	margin-right:-370px;
 	border-radius: 4px;
 	background-color: #3B5998;
 	color: #FFFFFF;
 	cursor: pointer;
 }
 #down-arrow{
-	margin-top: -200px;
+	margin-top: 260px;
 	margin-left: 575px;
 }
-#laptop2{
-	margin-top: 400px;
-	margin-left: -510px;
-	height: 250px;
-	width: 400px;
+#whereabout{
+	margin-right: 390px;
+	margin-top: 175px;
+	font-size: 40px;
+	cursor: pointer;
+	float: right;
+}
+#whereabout:hover{
+	margin-right: 390px;
+	margin-top: 175px;
+	font-size: 40px;
+	cursor: pointer;
+	float: right;
+	color: #CC33FF;
+	cursor: pointer;
+}
+#down-arrow2{
+	margin-left: 575px;
+	margin-bottom: -30px;
+}
+#whereaboutdesc{
+	float: right;
+	margin-right: 205px;
+	color: #808080;	
+	margin-top: -30px;
+}
+#share2{
+	float: right;
+	margin-top: -72px;
+	margin-right:-370px;
+	border-radius: 4px;
+	background-color: #3B5998;
+	color: #FFFFFF;
+	cursor: pointer;
+}
+#laptop2screen{
+	height: 230px;
+	width: 320px;
+	margin-top: 180px;
+	margin-left: 240px;
+	border: 10px groove;
+	border-radius: 4px;
+	border-color: #CCCCCC;
+	float: left;
 }
