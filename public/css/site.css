@@ -175,14 +175,14 @@ body {
 }
 #whereabout{
 	margin-right: 390px;
-	margin-top: 175px;
+	margin-top: 140px;
 	font-size: 40px;
 	cursor: pointer;
 	float: right;
 }
 #whereabout:hover{
 	margin-right: 390px;
-	margin-top: 175px;
+	margin-top: 140px;
 	font-size: 40px;
 	cursor: pointer;
 	float: right;
@@ -211,7 +211,7 @@ body {
 #laptop2screen{
 	height: 230px;
 	width: 320px;
-	margin-top: 180px;
+	margin-top: 150px;
 	margin-left: 240px;
 	border: 10px groove;
 	border-radius: 4px;
