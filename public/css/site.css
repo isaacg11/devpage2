@@ -14,12 +14,16 @@ body {
 	margin-left: 225px;
 	color: #FFFFFF;
 	font-size: 18px;
+	font-family: 'Quicksand';
+
 }
 #title{
 	margin-top: -23px;
 	margin-left: 225px;
 	color: #FFFFFF;
 	font-size: 10.5px;
+	font-family: 'Quicksand';
+
 
 }
 #home{
@@ -28,13 +32,17 @@ body {
 	color:#FFFFFF;
 	font-size: 13px;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
 }
 #home:hover{
 	margin-left: 700px;
 	margin-top: -50px;
-	color:#CC33FF;
+	color:#80B2FF;
 	font-size: 13px;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
 }
 #portfolio{
 	margin-left: 820px;
@@ -42,14 +50,18 @@ body {
 	color:#FFFFFF;
 	font-size: 13px;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
 
 }
 #portfolio:hover{
 	margin-left: 820px;
 	margin-top: -30px;
-	color:#CC33FF;
+	color:#80B2FF;
 	font-size: 13px;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
 
 }
 #contact{
@@ -58,14 +70,18 @@ body {
 	color:#FFFFFF;
 	font-size: 13px;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
 
 }
 #contact:hover{
 	margin-left: 960px;
 	margin-top: -30px;
-	color:#CC33FF;
+	color:#80B2FF;
 	font-size: 13px;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
 
 }
 #slogan{
@@ -73,12 +89,15 @@ body {
 	font-size: 60px;
 	margin-top: 160px;
 	margin-left: 165px;
+	font-family: 'Quicksand';
 }
 #description{
 	color: #FFFFFF;
 	margin-left: 175px;
-	margin-top: 90px;
+	margin-top: -20px;
 	font-size: 19px;
+	font-family: 'Quicksand';
+
 }
 #button1{
 	color: #FFFFFF;
@@ -88,11 +107,29 @@ body {
 	font-size: 19px;
 	padding-top: 16px;
 	padding-left: 40px;
-	background-color: #CC33FF;
+	background-color: #4D94FF;
 	margin-left: 175px;
-	margin-top: -590px;
+	margin-top: -620px;
 	float: left;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
+}
+#button1:hover{
+	color: #FFFFFF;
+	height: 55px;
+	width: 200px;
+	border-radius: 4px;
+	font-size: 19px;
+	padding-top: 16px;
+	padding-left: 40px;
+	background-color: #3385FF;
+	margin-left: 175px;
+	margin-top: -620px;
+	float: left;
+	cursor: pointer;
+	font-family: 'Quicksand';
+
 }
 #button2{
 	color: #FFFFFF;
@@ -104,9 +141,11 @@ body {
 	padding-left: 30px;
 	background-color: rgba(255,255,255,.2);
 	margin-left: 425px;
-	margin-top: -590px;
+	margin-top: -620px;
 	float: left;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
 }
 #block1{
 	height: 10px;
@@ -130,49 +169,56 @@ body {
 	margin-top: 8px;
 }
 #laptop1screen{
-	height: 230px;
-	width: 320px;
+	height: 390px;
+	width: 520px;
 	margin-top: -190px;
-	margin-left: 240px;
+	margin-left: 40px;
 	border: 10px groove;
 	border-radius: 4px;
 	border-color: #CCCCCC;
 }
 #blogdrafter{
-	margin-left: 635px;
-	margin-top: -260px;
-	font-size: 40px;
+	margin-left: 735px;
+	margin-top: -428px;
+	font-size: 55px;
 	cursor: pointer;
+	font-family: 'Quicksand';
+	color: #666666;
+
 }
 #blogdrafter:hover{
-	margin-left: 635px;
-	margin-top: -260px;
-	font-size: 40px;
-	color: #CC33FF;
+	margin-left: 735px;
+	margin-top: -428px;
+	font-size: 55px;
+	color: #3385FF;
 	cursor: pointer;
+	font-family: 'Quicksand';
+
 }
 .copyright{
 	font-size: 15px;
+	font-family: 'Quicksand';
+
 }
 #blogdrafterdesc{
 	float: right;
-	margin-right: 205px;
+	margin-right: 90px;
 	color: #808080;	
 	margin-top: -30px;
+	font-family: 'Quicksand';
+	font-size: 25px;
+
 }
 #share1{
 	float: right;
-	margin-top: -72px;
-	margin-right:-370px;
+	margin-top: -90px;
+	margin-right:-470px;
 	border-radius: 4px;
 	background-color: #3B5998;
 	color: #FFFFFF;
 	cursor: pointer;
 }
-#down-arrow{
-	margin-top: 260px;
-	margin-left: 575px;
-}
+
 #whereabout{
 	margin-right: 390px;
 	margin-top: 140px;
@@ -189,10 +235,7 @@ body {
 	color: #CC33FF;
 	cursor: pointer;
 }
-#down-arrow2{
-	margin-left: 575px;
-	margin-bottom: -30px;
-}
+
 #whereaboutdesc{
 	float: right;
 	margin-right: 205px;
@@ -217,4 +260,33 @@ body {
 	border-radius: 4px;
 	border-color: #CCCCCC;
 	float: left;
+}
+#overlay {
+	visibility: hidden;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width:100%;
+	height:100%;
+	text-align:center;
+	z-index: 1000;
+	color: #FFFFFF;
+	font-family: "Quicksand";
+}
+#overlay div {
+	width:300px;
+	margin: 100px auto;
+	background-color: rgba(0,0,0,.5);	
+	border:1px solid #000;
+	padding:15px;
+	text-align:center;
+	color: #FFFFFF;
+	border-radius: 4px;
+	font-family: "Quicksand";
+
+}
+#close{
+	color: #FFFFFF;
+	font-family: "Quicksand";
+
 }
