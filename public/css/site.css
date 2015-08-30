@@ -18,7 +18,7 @@ body {
 
 }
 #title{
-	margin-top: -23px;
+	margin-top: -7px;
 	margin-left: 225px;
 	color: #FFFFFF;
 	font-size: 10.5px;
@@ -94,7 +94,7 @@ body {
 #description{
 	color: #FFFFFF;
 	margin-left: 175px;
-	margin-top: -20px;
+	margin-top: 20px;
 	font-size: 19px;
 	font-family: 'Quicksand';
 
@@ -102,14 +102,14 @@ body {
 #button1{
 	color: #FFFFFF;
 	height: 55px;
-	width: 200px;
+	width: 230px;
 	border-radius: 4px;
 	font-size: 19px;
-	padding-top: 16px;
-	padding-left: 40px;
+	padding-top: 14px;
+	padding-left: 30px;
 	background-color: #4D94FF;
 	margin-left: 175px;
-	margin-top: -620px;
+	margin-top: -680px;
 	float: left;
 	cursor: pointer;
 	font-family: 'Quicksand';
@@ -118,14 +118,14 @@ body {
 #button1:hover{
 	color: #FFFFFF;
 	height: 55px;
-	width: 200px;
+	width: 230px;
 	border-radius: 4px;
 	font-size: 19px;
-	padding-top: 16px;
-	padding-left: 40px;
+	padding-top: 14px;
+	padding-left: 30px;
 	background-color: #3385FF;
 	margin-left: 175px;
-	margin-top: -620px;
+	margin-top: -680px;
 	float: left;
 	cursor: pointer;
 	font-family: 'Quicksand';
@@ -134,14 +134,14 @@ body {
 #button2{
 	color: #FFFFFF;
 	height: 55px;
-	width: 200px;
+	width: 230px;
 	border-radius: 4px;
 	font-size: 19px;
 	padding-top: 14px;
 	padding-left: 30px;
 	background-color: rgba(255,255,255,.2);
 	margin-left: 425px;
-	margin-top: -620px;
+	margin-top: -680px;
 	float: left;
 	cursor: pointer;
 	font-family: 'Quicksand';
@@ -179,7 +179,7 @@ body {
 }
 #blogdrafter{
 	margin-left: 735px;
-	margin-top: -428px;
+	margin-top: -400px;
 	font-size: 55px;
 	cursor: pointer;
 	font-family: 'Quicksand';
@@ -188,7 +188,7 @@ body {
 }
 #blogdrafter:hover{
 	margin-left: 735px;
-	margin-top: -428px;
+	margin-top: -400px;
 	font-size: 55px;
 	color: #3385FF;
 	cursor: pointer;
@@ -202,17 +202,17 @@ body {
 }
 #blogdrafterdesc{
 	float: right;
-	margin-right: 90px;
+	margin-right: 105px;
 	color: #808080;	
-	margin-top: -30px;
+	margin-top: -10px;
 	font-family: 'Quicksand';
 	font-size: 25px;
 
 }
 #share1{
 	float: right;
-	margin-top: -90px;
-	margin-right:-470px;
+	margin-top: -55px;
+	margin-right:-490px;
 	border-radius: 4px;
 	background-color: #3B5998;
 	color: #FFFFFF;
@@ -220,46 +220,62 @@ body {
 }
 
 #whereabout{
-	margin-right: 390px;
-	margin-top: 140px;
-	font-size: 40px;
+	margin-top: -420px;
+	margin-left: 50px;
+	font-size: 55px;
 	cursor: pointer;
-	float: right;
+	color: #666666;
+	font-family: "Quicksand";
+	float: left;
 }
 #whereabout:hover{
-	margin-right: 390px;
-	margin-top: 140px;
-	font-size: 40px;
+	margin-top: -420px;
+	margin-left: 50px;
+	font-size: 55px;
 	cursor: pointer;
-	float: right;
-	color: #CC33FF;
+	float: left;
+	color: #3385FF;
 	cursor: pointer;
+	font-family: "Quicksand";
+
 }
 
 #whereaboutdesc{
-	float: right;
-	margin-right: 205px;
 	color: #808080;	
-	margin-top: -30px;
+	margin-top: -330px;
+	font-family: "Quicksand";
+	font-size: 25px;
+	float: left;
+	margin-left: 55px;
 }
 #share2{
-	float: right;
-	margin-top: -72px;
-	margin-right:-370px;
+	float: left;
+	margin-left: 440px;
+	margin-top: -388px;
 	border-radius: 4px;
 	background-color: #3B5998;
 	color: #FFFFFF;
 	cursor: pointer;
 }
 #laptop2screen{
-	height: 230px;
-	width: 320px;
-	margin-top: 150px;
-	margin-left: 240px;
+	height: 220px;
+	width: 140px;
+	margin-top: 170px;
+	margin-left: 1060px;
 	border: 10px groove;
-	border-radius: 4px;
+	border-radius: 20px;
 	border-color: #CCCCCC;
 	float: left;
+}
+#tabletscreen{
+	margin-top: -300px;
+	margin-left: 745px;
+	border: 10px groove;
+	height: 400px;
+	width: 280px;
+	border-radius: 30px;
+
+
 }
 #overlay {
 	visibility: hidden;
@@ -289,4 +305,76 @@ body {
 	color: #FFFFFF;
 	font-family: "Quicksand";
 
+}
+#pic1{
+	height: 130px;
+	width: 120px;
+	margin-left: 50px;
+	border-radius: 3px;
+	border-color:#CCCCCC;
+}
+#pic2{
+	height: 130px;
+	width: 120px;
+	margin-left: 20px;
+	border-radius: 3px;
+	border-color:#CCCCCC;
+
+}
+#pic3{
+	height: 130px;
+	width: 120px;
+	margin-left: 20px;
+	border-radius: 3px;
+	border-color:#CCCCCC;
+
+}
+#pic4{
+	height: 130px;
+	width: 120px;
+	margin-left: 20px;
+	border:1px solid;
+	border-color:#CCCCCC;
+}
+#seemore{
+	float: right;
+	font-size: 65px;
+	cursor: pointer;
+	color: #4C4C4C;
+	font-family: "Quicksand";
+	margin-right: 220px;
+	margin-top: -20px;
+}
+#seemore:hover{
+	float: right;
+	font-size: 65px;
+	cursor: pointer;
+	color: #3385FF;
+	font-family: "Quicksand";
+	margin-right: 220px;
+	margin-top: -20px;
+}
+#seemoredesc{
+	color: #808080;	
+	font-family: "Quicksand";
+	font-size: 25px;
+	float: right;
+	margin-right: 160px;
+	margin-top: -50px;
+}
+#line1{
+	height: 25px;
+	width: 120px;
+	background-color: #3385FF;
+	float: left;
+	margin-left: 482px;
+	margin-top: -2px;
+}
+#line2{
+	height: 25px;
+	width: 120px;
+	background-color: #3385FF;
+	float: left;
+	margin-left: 337px;
+	margin-top: -25px;
 }
