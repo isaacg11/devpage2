@@ -1,5 +1,7 @@
 
-
+a:visited, a:hover, a {
+	text-decoration: none;
+}
 #backgroundimg{
 	width: 100vw;
 	position: absolute;
