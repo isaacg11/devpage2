@@ -407,7 +407,7 @@
 	width: 100px;
 	border-radius: 50%;
 	float: right;
-	margin-top: -300px;
+	margin-top: -350px;
 	margin-right: 780px;
 }
 #about{
@@ -441,5 +441,6 @@
 #pageinfo{
 	float: left;
 	font-size: 12px;
+	margin-top: 100px;
 	font-family: "Quicksand";
 }
