@@ -184,7 +184,7 @@
 }
 #blogdrafter{
 	margin-left: 735px;
-	margin-top: -370px;
+	margin-top: -400px;
 	font-size: 55px;
 	cursor: pointer;
 	font-family: 'Quicksand';
@@ -194,7 +194,7 @@
 }
 #blogdrafter:hover{
 	margin-left: 735px;
-	margin-top: -370px;
+	margin-top: -400px;
 	font-size: 55px;
 	color: #3385FF;
 	cursor: pointer;
@@ -219,7 +219,7 @@
 }
 #share1{
 	float: right;
-	margin-top: -55px;
+	margin-top: -75px;
 	margin-right:-490px;
 	border-radius: 4px;
 	background-color: #3B5998;
