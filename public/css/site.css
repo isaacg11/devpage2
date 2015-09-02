@@ -1,6 +1,4 @@
-body { 
-	scroll-behavior: smooth; 
-}
+
 
 #backgroundimg{
 	width: 100vw;
@@ -191,6 +189,7 @@ body {
 	cursor: pointer;
 	font-family: 'Quicksand';
 	color: #666666;
+	text-decoration: none;
 
 }
 #blogdrafter:hover{
@@ -200,6 +199,8 @@ body {
 	color: #3385FF;
 	cursor: pointer;
 	font-family: 'Quicksand';
+	text-decoration: none;
+	
 
 }
 .copyright{
@@ -438,7 +439,7 @@ body {
 }
 #pageinfo{
 	float: left;
-	margin-top:80px;
+	margin-top:240px;
 	font-size: 12px;
 	font-family: "Quicksand";
 	margin-right: -150px;
