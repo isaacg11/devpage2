@@ -212,14 +212,14 @@ a:visited, a:hover, a {
 	float: right;
 	margin-right: 105px;
 	color: #808080;	
-	margin-top: -60px;
+	margin-top: -40px;
 	font-family: 'Quicksand';
 	font-size: 25px;
 
 }
 #share1{
 	float: right;
-	margin-top: -115px;
+	margin-top: -105px;
 	margin-right:-480px;
 	border-radius: 4px;
 	background-color: #3B5998;
