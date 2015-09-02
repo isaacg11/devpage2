@@ -416,7 +416,7 @@
 	color: #4C4C4C;
 	font-family: "Quicksand";
 	float: left;
-	margin-top: 230px;
+	margin-top: 100px;
 	margin-left: 50px;
 }
 #aboutdesc{
@@ -435,7 +435,7 @@
 	margin-bottom: -100px;
 	height: 80px;
 	width: 100%vw;
-	padding-right: 140px;
+	padding-right: 100px;
 	text-align: center;
 	background-color: #E6E6E6;
 }
