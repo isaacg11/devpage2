@@ -219,7 +219,7 @@ a:visited, a:hover, a {
 }
 #share1{
 	float: right;
-	margin-top: -105px;
+	margin-top: -90px;
 	margin-right:-480px;
 	border-radius: 4px;
 	background-color: #3B5998;
@@ -407,7 +407,7 @@ a:visited, a:hover, a {
 	width: 100px;
 	border-radius: 50%;
 	float: right;
-	margin-top: -310px;
+	margin-top: -300px;
 	margin-right: 780px;
 }
 #about{
