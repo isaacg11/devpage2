@@ -185,7 +185,7 @@ a:visited, a:hover, a {
 	border-color: #CCCCCC;
 }
 #blogdrafter{
-	margin-left: 728px;
+	margin-left: 725px;
 	margin-top: -400px;
 	font-size: 55px;
 	cursor: pointer;
@@ -194,7 +194,7 @@ a:visited, a:hover, a {
 
 }
 #blogdrafter:hover{
-	margin-left: 735px;
+	margin-left: 725px;
 	margin-top: -400px;
 	font-size: 55px;
 	color: #3385FF;
@@ -212,7 +212,7 @@ a:visited, a:hover, a {
 	float: right;
 	margin-right: 105px;
 	color: #808080;	
-	margin-top: -10px;
+	margin-top: -30px;
 	font-family: 'Quicksand';
 	font-size: 25px;
 
@@ -220,7 +220,7 @@ a:visited, a:hover, a {
 #share1{
 	float: right;
 	margin-top: -90px;
-	margin-right:-490px;
+	margin-right:-500px;
 	border-radius: 4px;
 	background-color: #3B5998;
 	color: #FFFFFF;
